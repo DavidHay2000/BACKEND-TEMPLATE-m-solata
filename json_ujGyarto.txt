@@ -1,0 +1,20 @@
+{
+  "id": 1,
+  "nev": "Samsung",
+  "alapitva": 1999,
+  "elnok": "Mao Ce Tung"
+}
+
+{
+  "id":2,
+  "nev": "iPhone",
+  "alapitva": 1997,
+  "elnok": "Munkás István"
+}
+
+{
+  "id":3,
+  "nev": "Nokia",
+  "alapitva": 1992,
+  "elnok": "Mika Hakkinen"
+}

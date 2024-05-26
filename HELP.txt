@@ -1,0 +1,23 @@
+1. MongoDB szerver elérés
+C:\Program Files\MongoDB\Server\7.0\bin\mongod.exe
+
+2. Adatbázis szerver elérési út 
+csinálni kell egy .env fájlt
+DATABASE_URL = mongodb://127.0.0.1:27017/adatbázis_neve
+
+3. Modellek átnevezése (FIGYELEM NÉZD MEG MELYIK A RÖVIDEBB)
+
+4. module.exports = mongoose.model('{névAhogyHivatkozolRá}', locationSchema, '{táblaNeve}')
+
+5 modellek meggcsinalasa a feladat szerint, (Lásd alap)
+
+6. foreign key:
+ref: '{névAhogyHivatkozolRá}'
+
+7. thunder client localhost:27017/api/{hivas}
+
+8. min maxot hasznád ésszel LOL, also default
+
+9. routes constokat átírni
+
+10. minta alapján routok XD
